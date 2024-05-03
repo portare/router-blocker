@@ -1,0 +1,14 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.App > div {
+    padding: 12px;
+    border: 2px solid mediumaquamarine;
+}
+
+.menu {
+    display: flex;
+    gap: 10px;
+}
